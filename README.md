@@ -1,2 +1,2 @@
 # this is first updated from local system
-# abdul aziz gesawat makranagit 
+# abdul aziz gesawat makrana git
